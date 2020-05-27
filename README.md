@@ -1,4 +1,4 @@
 # video
 نص الفيديوهات التعليمية
-###[تاريخ-المال](history-of-money-ar.md)
-###[خريطة-طريق-ديكريد](decred-roadmap-ar.md)
+###[History-of-Money](history-of-money-ar.md)
+###[Decred-roadmap](decred-roadmap-ar.md)
