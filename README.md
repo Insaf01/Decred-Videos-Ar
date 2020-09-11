@@ -1,6 +1,6 @@
 # video
 نص الفيديوهات التعليمية
-### [تاريخ المال](history-of-money-ar.md)
+### [تاريخ المال](scripts/history-of-money-ar.md)
 ### [خريطة طريق ديكريد](scripts/decred-roadmap-ar.md)
 ### [ديكريد آمنة](scripts/decred-secure.md)
 ### [ديكريد قابلة للتكيف](scripts/decred-adaptable.md)
